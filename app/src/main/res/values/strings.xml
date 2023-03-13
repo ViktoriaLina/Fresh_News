@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fresh News</string>
+    <string name="hello_blank_fragment">Hello Blank Frag</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+
+</resources>
